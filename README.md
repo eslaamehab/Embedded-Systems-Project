@@ -98,3 +98,8 @@ Problems and Limitations Faced:
 	The 4WD car skeleton was of very poor quality. It had very wobbly wheels which made it 	hard to even go in a straight line properly. The weight distribution was also an issue with 	the car.
 ![image](https://user-images.githubusercontent.com/74051160/230375725-d4cd910d-2a6b-4f26-a525-0b314564e175.png)
 
+
+
+
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/74051160/230376018-283af765-c0e1-4810-b382-5841907ce4f2.png">
