@@ -8,6 +8,7 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
 	a.	For the lane keep assist, we used two color sensors to detect each side of the lane.
     
 	b.	If a side is not detected, the car steers in the other direction so it can go back in the lane.
+    
 	c.	The car motors work with the sensors so they can steer the car back into the lane by slowing down one wheel more than the other.
 	d.	The Motors and the boards are powered by 3 4v batteries.
 
