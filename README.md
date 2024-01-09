@@ -5,6 +5,7 @@ Project idea, approach and the components used:
 In this project, Lane Keep Assist, Control Indicators and Sound System were chosen;
 
 1-	Lane Keep Assist
+
 	a.	For the lane keep assist, we used two color sensors to detect each side of the lane.
     
 	b.	If a side is not detected, the car steers in the other direction so it can go back in the lane.
