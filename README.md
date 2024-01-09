@@ -17,6 +17,7 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
 2-	Control Indicators
 
       a.	For the headlights, we used two LEDs connected to an LDR so their light intensity varies with the surrounding light intensity.
+      
       b.	For the car gears, we used an analog 2 axis joystick with a push button. The joystick is connected to the Seven Segment Display.
 
 3-	Sound System
