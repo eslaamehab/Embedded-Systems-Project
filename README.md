@@ -1,6 +1,5 @@
 # Embedded-Systems-Project
 
-Project idea, approach and the components used:
 
 In this project, Lane Keep Assist, Control Indicators and Sound System were chosen;
 
@@ -21,11 +20,12 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
       b.	For the car gears, we used an analog 2 axis joystick with a push button. The joystick is connected to the Seven Segment Display.
 
 3-	Sound System
+
       a.	For the sound system, we used an mp3 module, a speaker and a 2.8 inch TFT LCD Touch Screen.
       b.	The SD card was setup and the speaker was connected to the mp3 module.
       c.	The mp3 should work via the code but sadly it didn’t, but it still works by grounding some pins.
       d.	The Touch Screen ,however, runs and sends the correct input to the mega board.
-![image](https://user-images.githubusercontent.com/74051160/230374678-a04b8e9f-471d-4573-988a-ad9822120f36.png)
+<!--![image](https://user-images.githubusercontent.com/74051160/230374678-a04b8e9f-471d-4573-988a-ad9822120f36.png)-->
 
 
 
