@@ -39,6 +39,7 @@ Libraries used and their functions
     a.	Allows the creation of tasks so we used that to define our program into 3 tasks with the correct priorities set to each.
 
 2-	<Wire.h>
+
     a.	This library was used to connect the Arduino Uno and Arduino Mega boards together as master and slave. It does that by creating an I2C bus which is used to transfer data between the two boards.
 
 3-	<SevSeg.h>
