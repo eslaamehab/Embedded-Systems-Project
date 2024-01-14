@@ -26,6 +26,7 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
       b.	The SD card was setup and the speaker was connected to the mp3 module.
       
       c.	The mp3 should work via the code but sadly it didn’t, but it still works by grounding some pins.
+      
       d.	The Touch Screen ,however, runs and sends the correct input to the mega board.
 <!--![image](https://user-images.githubusercontent.com/74051160/230374678-a04b8e9f-471d-4573-988a-ad9822120f36.png)-->
 
