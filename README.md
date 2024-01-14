@@ -35,6 +35,7 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
 Libraries used and their functions
 
 1-	<Arduino_FreeRTOS.h>
+
     a.	Allows the creation of tasks so we used that to define our program into 3 tasks with the correct priorities set to each.
 
 2-	<Wire.h>
