@@ -43,6 +43,7 @@ Libraries used and their functions
     a.	This library was used to connect the Arduino Uno and Arduino Mega boards together as master and slave. It does that by creating an I2C bus which is used to transfer data between the two boards.
 
 3-	<SevSeg.h>
+
     a.	This library had quite a few useful functions for the seven segment display such as printing characters that was used for displaying the car gears.
 ![image](https://user-images.githubusercontent.com/74051160/230375105-3d2a8737-bfe0-4fb9-a5d3-4d90ca87ce21.png)
 
