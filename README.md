@@ -45,7 +45,7 @@ Libraries used and their functions
 3-	<SevSeg.h>
 
     a.	This library had quite a few useful functions for the seven segment display such as printing characters that was used for displaying the car gears.
-![image](https://user-images.githubusercontent.com/74051160/230375105-3d2a8737-bfe0-4fb9-a5d3-4d90ca87ce21.png)
+<!--![image](https://user-images.githubusercontent.com/74051160/230375105-3d2a8737-bfe0-4fb9-a5d3-4d90ca87ce21.png)-->
 
 
 
