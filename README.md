@@ -61,9 +61,11 @@ Inputs and Outputs
         S0,S1,S2,S3 are connected to digital pins 3,4,5,6 respectively
         
 
-2.	Motors: Front Motors are connected to the H-Bridge (IN1,IN2,IN3,IN4)
+2.	Motors: 
+
+        Front Motors are connected to the H-Bridge (IN1,IN2,IN3,IN4)
 		
-	Rear Motors are connected directly to the 12v Power supply
+        Rear Motors are connected directly to the 12v Power supply
 
 3.	H-Bridge: Connected to 5v and 12v
 	  IN1 and IN2 connected to right motor
