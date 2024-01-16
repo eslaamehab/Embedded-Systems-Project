@@ -53,9 +53,13 @@ Libraries used and their functions
 Inputs and Outputs
 
 1.	Color Sensors: 
+
         Output for right color sensor connected to digital pin 2 
+        
         output for left sensor connected to digital pin 7
+        
         S0,S1,S2,S3 are connected to digital pins 3,4,5,6 respectively
+        
 
 2.	Motors: Front Motors are connected to the H-Bridge (IN1,IN2,IN3,IN4)
 		
