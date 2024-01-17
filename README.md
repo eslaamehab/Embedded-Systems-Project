@@ -66,11 +66,18 @@ Inputs and Outputs
         Front Motors are connected to the H-Bridge (IN1,IN2,IN3,IN4)
 		
         Rear Motors are connected directly to the 12v Power supply
+        
 
-3.	H-Bridge: Connected to 5v and 12v
-	  IN1 and IN2 connected to right motor
-	  IN3 and IN4 connected to left motor
-	  S0,S1,S2,S3 Connected to pins ()
+3.	H-Bridge: 
+
+        Connected to 5v and 12v
+        
+        IN1 and IN2 connected to right motor
+        
+        IN3 and IN4 connected to left motor
+        
+        S0,S1,S2,S3 Connected to pins ()
+        
 
 4.	LDR: Connected to 5v power supply and to pin (A0)
     LEDs connected to pin 9 (digital)
