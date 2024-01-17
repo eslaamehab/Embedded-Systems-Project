@@ -79,9 +79,14 @@ Inputs and Outputs
         S0,S1,S2,S3 Connected to pins ()
         
 
-4.	LDR: Connected to 5v power supply and to pin (A0)
-    LEDs connected to pin 9 (digital)
-    Lane Sensing Alert LED connected to digital pin 50
+4.	LDR: 
+
+        Connected to 5v power supply and to pin (A0)
+        
+        LEDs connected to pin 9 (digital)
+        
+        Lane Sensing Alert LED connected to digital pin 50
+        
 
 5.	MP3: RX,TX connected to pins (33,35)
 	Mp3 connected to power and ground and the speakers are 	connected onto the mp3
