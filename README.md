@@ -95,7 +95,10 @@ Inputs and Outputs
         Mp3 connected to power and ground and the speakers are 	connected onto the mp3
         
 
-6.	Touchscreen: Placed on Arduino Uno
+6.	Touchscreen: 
+
+        Placed on Arduino Uno
+        
 
 7.	Seven Segment Display: 
 			Segments are connected to digital pins 22,24,42,44,46,26,28,40
