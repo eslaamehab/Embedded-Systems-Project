@@ -91,7 +91,9 @@ Inputs and Outputs
 5.	MP3: 
 
         RX,TX connected to pins (33,35)
-	Mp3 connected to power and ground and the speakers are 	connected onto the mp3
+        
+        Mp3 connected to power and ground and the speakers are 	connected onto the mp3
+        
 
 6.	Touchscreen: Placed on Arduino Uno
 
