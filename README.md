@@ -108,8 +108,10 @@ Inputs and Outputs
 8.	Joystick:
 	
 	Push button input connected to digital pin 53
+    
 	X,Y axis sensors connected to analog pins A4,A5
-![image](https://user-images.githubusercontent.com/74051160/230375409-608e8893-cc91-464b-a17a-d844ab085e48.png)
+    
+<!--![image](https://user-images.githubusercontent.com/74051160/230375409-608e8893-cc91-464b-a17a-d844ab085e48.png)-->
 
 
 
