@@ -116,11 +116,16 @@ Inputs and Outputs
 
 
 
+
+
 FreeRTOS
 
-There are 3 Tasks in our freeRTOS implementation.
 
-1-	Task Responsible for color sensors & motors
+There are 3 Tasks in our freeRTOS implementation. 
+
+
+    1-	Task Responsible for color sensors & motors
+
 2-	Task for the joystick and Seven Segment Display
 3-	Task responsible for LDR
 	
