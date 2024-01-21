@@ -101,7 +101,9 @@ Inputs and Outputs
         
 
 7.	Seven Segment Display: 
+
 			Segments are connected to digital pins 22,24,42,44,46,26,28,40
+            
 	
 8.	Joystick:
 	
