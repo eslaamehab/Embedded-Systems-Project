@@ -126,8 +126,10 @@ There are 3 Tasks in our freeRTOS implementation.
 
     1-	Task Responsible for color sensors & motors
 
-2-	Task for the joystick and Seven Segment Display
-3-	Task responsible for LDR
+    2-	Task for the joystick and Seven Segment Display
+    
+    3-	Task responsible for LDR
+    
 	
 Task 1 has the highest priority while task 2 and 3 have equal but lower 			priorities than task 1.
 
