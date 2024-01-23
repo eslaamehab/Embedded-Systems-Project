@@ -131,15 +131,15 @@ There are 3 Tasks in our freeRTOS implementation.
     3-	Task responsible for LDR
     
 	
-Task 1 has the highest priority while task 2 and 3 have equal but lower 			priorities than task 1.
+Task 1 has the highest priority while task 2 and 3 have equal but lower priorities than task 1.
 
 
 
 Problems and Limitations Faced:
 
-	The MP3 module refused to work, even though I have changed the jumpers and rewired 	everything several times. 
-    I have also formatted the SD and set it up in the required 	settings and filenames. 
-    The MP3 module works directly by grounding some of the inputs 	but fails to read the SD card when running its code.
+	The MP3 module refused to work, even though I have changed the jumpers and rewired everything several times. 
+    I have also formatted the SD and set it up in the required settings and filenames. 
+    The MP3 module works directly by grounding some of the inputs but fails to read the SD card when running its code.
     
 
 	Getting the touch screen to work without resetting was a hassle at first, but the 
@@ -150,8 +150,10 @@ Problems and Limitations Faced:
 	Debug and modify especially towards the end of the project.
     
 
-	The 4WD car skeleton was of very poor quality. It had very wobbly wheels which made it 	hard to even go in a straight line properly. The weight distribution was also an issue with 	the car.
-![image](https://user-images.githubusercontent.com/74051160/230375725-d4cd910d-2a6b-4f26-a525-0b314564e175.png)
+	The 4WD car skeleton was of very poor quality. 
+    It had very wobbly wheels which made it 	hard to even go in a straight line properly. 
+    The weight distribution was also an issue with 	the car.
+<!--![image](https://user-images.githubusercontent.com/74051160/230375725-d4cd910d-2a6b-4f26-a525-0b314564e175.png)-->
 
 
 
