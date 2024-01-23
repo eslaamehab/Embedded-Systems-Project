@@ -40,7 +40,8 @@ Libraries used and their functions
 
 2-	<Wire.h>
 
-    a.	This library was used to connect the Arduino Uno and Arduino Mega boards together as master and slave. It does that by creating an I2C bus which is used to transfer data between the two boards.
+    a.	This library was used to connect the Arduino Uno and Arduino Mega boards together as master and slave. 
+    It does that by creating an I2C bus which is used to transfer data between the two boards.
 
 3-	<SevSeg.h>
 
@@ -151,7 +152,7 @@ Problems and Limitations Faced:
     
 
 	The 4WD car skeleton was of very poor quality. 
-    It had very wobbly wheels which made it 	hard to even go in a straight line properly. 
+    It had very wobbly wheels which made it hard to even go in a straight line properly. 
     The weight distribution was also an issue with 	the car.
 <!--![image](https://user-images.githubusercontent.com/74051160/230375725-d4cd910d-2a6b-4f26-a525-0b314564e175.png)-->
 
