@@ -9,7 +9,7 @@ In this project, Lane Keep Assist, Control Indicators and Sound System were chos
     b.	If a side is not detected, the car steers in the other direction so it can go back in the lane.
 
     c.	The car motors work with the sensors where
-        We can steer the car back into the lane by slowing down one wheel more than the other.
+            We can steer the car back into the lane by slowing down one wheel more than the other.
 
     d.	The Motors and the boards are powered by 3 4v batteries.
 
@@ -35,7 +35,7 @@ Libraries used and their functions
 
 1- <Arduino_FreeRTOS.h>
 
-    a.	Allows the creation of tasks so we used that to define our program into 3 tasks with the correct priorities set to each.
+    Allows the creation of tasks so we used that to define our program into 3 tasks with the correct priorities set to each.
 
 2- <Wire.h>
 
