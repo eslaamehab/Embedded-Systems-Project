@@ -121,7 +121,8 @@ Problems and Limitations Faced:
 
     The MP3 module refused to work, even though I have changed the jumpers and rewired everything several times.
     I have also formatted the SD and set it up in the required settings and filenames.
-    The MP3 module works directly by grounding some of the inputs but fails to read the SD card when running its code.
+    The MP3 module works directly by grounding some of the inputs
+    But fails to read the SD card when running its code.
 
 
     Getting the touch screen to work without resetting was a hassle at first, but the
