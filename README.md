@@ -1,6 +1,7 @@
 # Embedded-Systems-Project
 
 This project is a part of Embedded Systems Architecture CSE07 course.
+
 Lane Keep Assist, Control Indicators and Sound System were chosen to build this remote controlled car.
 
 1- Lane Keep Assist
