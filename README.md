@@ -39,8 +39,8 @@ Libraries used and their functions
 
 2- <Wire.h>
 
-    This library was used to connect the Arduino Uno and Arduino Mega boards together as master and slave.
-            It does that by creating an I2C bus which is used to transfer data between the two boards.
+    Used to connect the Arduino Uno and Arduino Mega boards together as master and slave.
+        It does that by creating an I2C bus which is used to transfer data between the two boards.
 
 3- <SevSeg.h>
 
